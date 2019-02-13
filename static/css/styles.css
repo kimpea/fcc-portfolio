@@ -4,26 +4,39 @@ html, body {
   height: 100%;
 }
 
-.highlight-orange {
-  color: #FE6301;
+/*-- Navigation --*/
+
+nav a:link, nav a:visited, nav a:hover, nav a:active  {
+  color: #fff !important;
 }
+
+/*-- Images --*/
 
 img {
   width: 100%;
   height: auto;
 }
 
-nav a:link, nav a:visited, nav a:hover, nav a:active  {
-  color: #fff !important;
+/*-- Special --*/
+
+.highlight-orange {
+  color: #FE6301;
 }
 
- a:link, a:visited {
+a:link, a:visited {
   color: #000 !important;
 }
 
 a:hover, a:active {
   color:  #FE6301 !important;
 }
+
+.header {
+  text-align: center;
+  padding-top: 30px;
+}
+
+/*-- Welcome Section --*/
 
 #welcome-section {
   text-align: center;
@@ -34,6 +47,8 @@ a:hover, a:active {
 #welcome-section p {
   font-size: 20px;
 }
+
+/*-- Contact Section --*/
 
 #contact {
   text-align: center;
@@ -47,11 +62,6 @@ a:hover, a:active {
 
 li i {
   padding-right: 5px;
-}
-
-.header {
-  text-align: center;
-  padding-top: 30px;
 }
 
 /*-- Back to top --*/
@@ -81,6 +91,8 @@ li i {
 #projects {
   text-align: center;
 }
+
+/*-- Media Queries --*/
 
 @media only screen and (min-device-width: 414px) and (max-device-width: 736px) {
   .display-3 {
