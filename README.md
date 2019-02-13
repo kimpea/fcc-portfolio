@@ -25,3 +25,5 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 ### Testing
 
 ### Deployment
+
+This website has been deployed through GitHub pages and can be viewed [here](https://kimpea.github.io/fcc-portfolio/).
