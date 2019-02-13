@@ -33,6 +33,6 @@ i {
 
 @media only screen and (min-device-width: 414px) and (max-device-width: 736px) {
     .display-3 {
-      font-size: 10px;
+      font-size: 2.8rem !important;
     }
 }
