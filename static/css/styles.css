@@ -25,3 +25,8 @@ img {
 i {
     padding-right: 5px;
 }
+
+.header {
+    text-align: center;
+    padding: 10px;
+}
