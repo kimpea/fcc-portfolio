@@ -4,6 +4,10 @@ html, body {
     height: 100%;
 }
 
+.highlight-orange {
+    color: #FE6301;
+}
+
 img {
     width: 100%;
     height: auto;
