@@ -17,6 +17,10 @@ img {
     text-align: center;
 }
 
+#welcome-section p {
+    font-size: 18px;
+  }
+
 #contact {
     text-align: center;
 }
