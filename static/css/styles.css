@@ -12,3 +12,11 @@ img {
 #welcome-section {
     text-align: center;
 }
+
+#contact {
+    text-align: center;
+}
+
+#contact ul {
+  list-style-type: none;
+}
