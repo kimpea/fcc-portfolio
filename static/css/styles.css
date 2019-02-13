@@ -14,28 +14,16 @@ img {
 }
 
 nav a:link, nav a:visited, nav a:hover, nav a:active  {
-  color: #fff;
+  color: #fff !important;
 }
 
- /* unvisited link */
- a:link {
+ a:link, a:visited {
   color: #000 !important;
 }
 
-/* visited link */
-a:visited {
-  color: #000 !important;
-}
-
-/* mouse over link */
-a:hover {
+a:hover, a:active {
   color:  #FE6301 !important;
 }
-
-/* selected link */
-a:active {
-  color: #FE6301 !important;
-} 
 
 #welcome-section {
   text-align: center;
