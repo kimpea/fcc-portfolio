@@ -24,6 +24,10 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 
 ### Testing
 
+This website has been tested using freeCodeCamp's test suite on Code Pen. It has passed all tests and can be viewed [here](https://codepen.io/kimaypea/full/PVaxEy).
+The HTML and CSS code has been passed through the W3C Validation Service with no errors. 
+The responsiveness of the website has been tested through Mozilla Developer Tools with no outstanding issues.
+
 ### Deployment
 
 This website has been deployed through GitHub pages and can be viewed [here](https://kimpea.github.io/fcc-portfolio/).
