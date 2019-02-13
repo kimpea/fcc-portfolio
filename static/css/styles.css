@@ -4,6 +4,10 @@ html, body {
     height: 100%;
 }
 
+body {
+  margin-top: 90px
+}
+
 .highlight-orange {
     color: #FE6301;
 }
