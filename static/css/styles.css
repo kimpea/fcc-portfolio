@@ -13,6 +13,26 @@ img {
     height: auto;
 }
 
+ /* unvisited link */
+ a:link {
+  color: #000;
+}
+
+/* visited link */
+a:visited {
+  color: #000;
+}
+
+/* mouse over link */
+a:hover {
+  color:  #FE6301;
+}
+
+/* selected link */
+a:active {
+  color: #FE6301;
+} 
+
 #welcome-section {
     text-align: center;
 }
