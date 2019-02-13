@@ -18,5 +18,10 @@ img {
 }
 
 #contact ul {
-  list-style-type: none;
+    list-style-type: none;
+    padding: 0;
+}
+
+i {
+    padding-right: 5px;
 }
